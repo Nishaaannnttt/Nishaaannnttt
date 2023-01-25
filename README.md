@@ -1,4 +1,5 @@
-- 👋 Hi, I’m @Nishaaannnttt
+- 👋 Hi, I’m @Nishant
+- 
 - 👀 I’m interested in coding and learning...
 - 🌱 I’m currently learning python
 - 💞️ I’m looking to collaborate on nothing much i am a beginner
